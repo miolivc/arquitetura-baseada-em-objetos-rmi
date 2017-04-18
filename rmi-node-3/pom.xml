@@ -6,7 +6,7 @@
         <artifactId>arquitetura-baseada-em-objetos-rmi</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
-    <artifactId>node_3</artifactId>
+    <artifactId>rmi-node-3</artifactId>
     <packaging>jar</packaging>
     <dependencies>
         <dependency>
@@ -20,4 +20,5 @@
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
     </properties>
+    <name>rmi-node-3</name>
 </project>
