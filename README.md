@@ -1,5 +1,5 @@
 # arquitetura-baseada-em-eventos-rmi
-------------------------------------------
+
 ### Exemplo de Arquitetura Baseada em Eventos Usando Java RMI - Calculadora
 
 * A aplicação cliente seleciona um servidor aleatório para efetuar o cálculo pedido pelo usuário (Soma ou Subtração); 
