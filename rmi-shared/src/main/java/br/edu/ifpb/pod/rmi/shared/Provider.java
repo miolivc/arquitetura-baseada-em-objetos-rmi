@@ -32,8 +32,4 @@ public class Provider {
         server = new Servidores().getServer();
         return LocateRegistry.getRegistry(server);
     }
-
-    public Calculadora getServer() {
-        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
-    }
 }
